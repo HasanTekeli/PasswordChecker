@@ -13,4 +13,4 @@ Your password may be vulnerable to attacks if you check your password on website
   
 ## To run the script:
   - Open Terminal/Command Prompt on the directory where you saved this script.
-  - Run 'passcheck.py "yourpassword" ' 
+  - Run 'passcheck.py yourpassword' without quotations. 
